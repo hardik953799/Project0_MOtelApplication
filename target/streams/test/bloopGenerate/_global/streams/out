@@ -1,0 +1,4 @@
+[debug] [motel-test] Classpath dependencies List()
+[debug] [motel-test] Dependencies from configurations List(motel)
+[debug] Bloop wrote the configuration of project 'motel-test' to 'C:\Motel\.bloop\motel-test.json'
+[success] Generated .bloop\motel-test.json

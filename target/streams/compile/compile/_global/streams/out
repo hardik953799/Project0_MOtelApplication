@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Motel\src\main\scala\signUp.scala:118:28: not found: type S[0m
+[0m[[0m[31merror[0m] [0m[0m    def parseMobile(number:S):Unit={[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
